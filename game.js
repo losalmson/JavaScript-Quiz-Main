@@ -13,38 +13,38 @@ const maximalQuestions = 4;
 
 let questions = [
   {
-    question: "What is the capital of Sweden ?",
-    choice1: "Oslo",
-    choice2: "Stockholm",
-    choice3: "Gothenburg",
-    choice4: "Malmoe",
+    question: "Vilken är Yasin's mest streamade låt ?",
+    choice1: "John Snow",
+    choice2: "Har Dig",
+    choice3: "Trakten",
+    choice4: "Chicago",
     answer: 2,
   },
 
   {
-    question: "What is the sweden currency?",
-    choice1: "Dollar",
-    choice2: "Euro",
-    choice3: "Swedish Krona",
-    choice4: "Swedish Mark",
+    question: "Vad hette Yasin's kollektiv?",
+    choice1: "RMM",
+    choice2: "RMH",
+    choice3: "BBE",
+    choice4: "Top Class Music",
     answer: 3,
   },
 
   {
-    question: "What is Swedens highest mountain?",
-    choice1: "Keslaberget",
-    choice2: "Halti",
-    choice3: "Skardstinden",
-    choice4: "Kebnekaise",
+    question: "Vad heter projektet som Yasin släppte vid jul?",
+    choice1: "En paus från internet",
+    choice2: "More To Life",
+    choice3: "98.01.11",
+    choice4: "Handen Under Mona Lisas Kjol",
     answer: 4,
   },
 
   {
-    question: "What is Sweden in Swedish??",
-    choice1: "Svealand",
-    choice2: "Svorje",
-    choice3: "Sverige",
-    choice4: "Sweden",
+    question: "Vilket år släpptes Yasin's Chicago?",
+    choice1: "2016",
+    choice2: "2019",
+    choice3: "2018",
+    choice4: "2014",
     answer: 3,
   },
 ];
